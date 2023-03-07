@@ -8,4 +8,5 @@ def remove_char_at(str, n):
         else:
             strtmp += c
         cont += 1
-    return 
+    return strtmp
+
